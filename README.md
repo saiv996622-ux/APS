@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/saiv996622-ux/APS/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/saiv996622-ux/APS/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/saiv996622-ux/APS/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/saiv996622-ux/APS/tree/master/0901-online-stock-span) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/saiv996622-ux/APS/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/saiv996622-ux/APS/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/saiv996622-ux/APS/tree/master/0622-design-circular-queue) |
+| [0901-online-stock-span](https://github.com/saiv996622-ux/APS/tree/master/0901-online-stock-span) |
 ## Sliding Window
 |  |
 | ------- |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/saiv996622-ux/APS/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/saiv996622-ux/APS/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/saiv996622-ux/APS/tree/master/0901-online-stock-span) |
 ## Binary Search
 |  |
 | ------- |
@@ -200,4 +203,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/saiv996622-ux/APS/tree/master/0735-asteroid-collision) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/saiv996622-ux/APS/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
