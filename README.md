@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/saiv996622-ux/APS/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/saiv996622-ux/APS/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/saiv996622-ux/APS/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/saiv996622-ux/APS/tree/master/0496-next-greater-element-i) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/saiv996622-ux/APS/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/saiv996622-ux/APS/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/saiv996622-ux/APS/tree/master/0283-move-zeroes) |
+| [0496-next-greater-element-i](https://github.com/saiv996622-ux/APS/tree/master/0496-next-greater-element-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/saiv996622-ux/APS/tree/master/0160-intersection-of-two-linked-lists) |
 | [0219-contains-duplicate-ii](https://github.com/saiv996622-ux/APS/tree/master/0219-contains-duplicate-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/saiv996622-ux/APS/tree/master/0387-first-unique-character-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/saiv996622-ux/APS/tree/master/0496-next-greater-element-i) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -173,4 +176,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/saiv996622-ux/APS/tree/master/0387-first-unique-character-in-a-string) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/saiv996622-ux/APS/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
