@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/saiv996622-ux/APS/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/saiv996622-ux/APS/tree/master/0739-daily-temperatures) |
 | [0946-validate-stack-sequences](https://github.com/saiv996622-ux/APS/tree/master/0946-validate-stack-sequences) |
+| [0977-squares-of-a-sorted-array](https://github.com/saiv996622-ux/APS/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -71,10 +72,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/saiv996622-ux/APS/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/saiv996622-ux/APS/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/saiv996622-ux/APS/tree/master/0876-middle-of-the-linked-list) |
+| [0977-squares-of-a-sorted-array](https://github.com/saiv996622-ux/APS/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/saiv996622-ux/APS/tree/master/0075-sort-colors) |
+| [0977-squares-of-a-sorted-array](https://github.com/saiv996622-ux/APS/tree/master/0977-squares-of-a-sorted-array) |
 ## Quicksort
 |  |
 | ------- |
