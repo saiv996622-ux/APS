@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/saiv996622-ux/APS/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/saiv996622-ux/APS/tree/master/0020-valid-parentheses) |
 | [0257-binary-tree-paths](https://github.com/saiv996622-ux/APS/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/saiv996622-ux/APS/tree/master/0344-reverse-string) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/saiv996622-ux/APS/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/saiv996622-ux/APS/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/saiv996622-ux/APS/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/saiv996622-ux/APS/tree/master/0160-intersection-of-two-linked-lists) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/saiv996622-ux/APS/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/saiv996622-ux/APS/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/saiv996622-ux/APS/tree/master/0239-sliding-window-maximum) |
 ## Queue
