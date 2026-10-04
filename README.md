@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/saiv996622-ux/APS/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saiv996622-ux/APS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0219-contains-duplicate-ii](https://github.com/saiv996622-ux/APS/tree/master/0219-contains-duplicate-ii) |
+| [0239-sliding-window-maximum](https://github.com/saiv996622-ux/APS/tree/master/0239-sliding-window-maximum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -138,8 +139,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/saiv996622-ux/APS/tree/master/0219-contains-duplicate-ii) |
+| [0239-sliding-window-maximum](https://github.com/saiv996622-ux/APS/tree/master/0239-sliding-window-maximum) |
 ## Queue
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/saiv996622-ux/APS/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/saiv996622-ux/APS/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/saiv996622-ux/APS/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/saiv996622-ux/APS/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/saiv996622-ux/APS/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
