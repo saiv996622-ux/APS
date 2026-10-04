@@ -4,10 +4,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/saiv996622-ux/APS/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/saiv996622-ux/APS/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/saiv996622-ux/APS/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/saiv996622-ux/APS/tree/master/0206-reverse-linked-list) |
 ## String
 |  |
